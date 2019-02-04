@@ -1,0 +1,121 @@
+{
+  "config": {
+    "title": "Docz",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "ordering": "descending",
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {
+      "logo": {
+        "src": "https://raw.githubusercontent.com/renatorib/react-powerplug/master/logo.png",
+        "width": 231
+      },
+      "colors": {
+        "primary": "#3E9DE1"
+      }
+    }
+  },
+  "entries": {
+    "Guide.mdx": {
+      "name": "Guide",
+      "route": "/guide",
+      "order": 19,
+      "id": "ab1c0472f604e5cf63ae88ee93e0cb6a",
+      "filepath": "Guide.mdx",
+      "link": null,
+      "slug": "guide",
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "guide",
+          "value": "Guide"
+        },
+        {
+          "depth": 2,
+          "slug": "creating-a-dumb-component",
+          "value": "Creating a Dumb Component"
+        },
+        {
+          "depth": 2,
+          "slug": "using-react-powerplug",
+          "value": "Using React PowerPlug"
+        }
+      ]
+    },
+    "docs/Button.mdx": {
+      "name": "Button",
+      "menu": "1. Components",
+      "route": "/custom-button",
+      "id": "68a6b55def5e73bf0a1b7ab2a4a79f62",
+      "filepath": "docs/Button.mdx",
+      "link": null,
+      "slug": "docs-button",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "button",
+          "value": "Button"
+        },
+        {
+          "depth": 2,
+          "slug": "button-example",
+          "value": "Button Example"
+        },
+        {
+          "depth": 2,
+          "slug": "code",
+          "value": "code"
+        }
+      ]
+    },
+    "docs/Field.mdx": {
+      "name": "Field",
+      "menu": "1. Components",
+      "route": "/custom-field",
+      "id": "3face9944e1de182f8c936c6ef6c5de0",
+      "filepath": "docs/Field.mdx",
+      "link": null,
+      "slug": "docs-field",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "field",
+          "value": "Field"
+        },
+        {
+          "depth": 2,
+          "slug": "field-example",
+          "value": "Field Example"
+        },
+        {
+          "depth": 2,
+          "slug": "code",
+          "value": "code"
+        }
+      ]
+    },
+    "docs/introducttion.mdx": {
+      "name": "introduction",
+      "menu": "Introduction",
+      "route": "/custom-introduction",
+      "id": "022e313d785d69541068a07f9d9d0f06",
+      "filepath": "docs/introducttion.mdx",
+      "link": null,
+      "slug": "docs-introducttion",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "introduction",
+          "value": "Introduction"
+        }
+      ]
+    }
+  }
+}
