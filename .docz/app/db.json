@@ -16,7 +16,8 @@
       "colors": {
         "primary": "#3E9DE1"
       }
-    }
+    },
+    "typescript": true
   },
   "entries": {
     "Guide.mdx": {
@@ -63,13 +64,23 @@
         },
         {
           "depth": 2,
-          "slug": "button-example",
-          "value": "Button Example"
+          "slug": "colors",
+          "value": "Colors"
         },
         {
           "depth": 2,
-          "slug": "code",
-          "value": "code"
+          "slug": "basic",
+          "value": "Basic"
+        },
+        {
+          "depth": 2,
+          "slug": "sizes",
+          "value": "Sizes"
+        },
+        {
+          "depth": 2,
+          "slug": "fullwidth",
+          "value": "Fullwidth"
         }
       ]
     },

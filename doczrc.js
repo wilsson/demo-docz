@@ -1,5 +1,6 @@
 module.exports = {
     title: 'Docz',
+    typescript: true,
     themeConfig: {
         logo: {
             src:
